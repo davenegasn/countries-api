@@ -7,3 +7,7 @@
 - API resource for handling response
 - Vue 3 frontend with composable for handling the internal API call
 - Didn't find necessary to add typescript
+
+Usage:
+docker compose up -d --build (1st time)
+docker compose up -d (onwards)
