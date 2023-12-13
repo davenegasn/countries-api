@@ -1,4 +1,4 @@
-# Simple call to countries API - Laraveö 10 - Vue3 - Dockerized
+# Simple call to countries API - Laravel 10 - Vue3 - Dockerized
 
 - Auth0 login/logout using default routes
 - Single action controller for API route
